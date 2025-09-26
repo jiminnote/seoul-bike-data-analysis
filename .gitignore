@@ -1,0 +1,10 @@
+# IDE & 시스템 파일
+.idea/
+.DS_Store
+.ipynb_checkpoints/
+
+# 비밀/환경
+.env
+
+# 데이터
+Data/*.csv
